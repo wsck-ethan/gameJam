@@ -5,11 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/danie/OneDrive/Documents/GitHub/gameJam/Content/levels/NewWorld.umap",
 				"C:/Users/danie/OneDrive/Documents/GitHub/gameJam/Content/levels/starting.umap",
 				"C:/Users/danie/OneDrive/Documents/GitHub/gameJam/Content/levels/level_1.umap",
 				"C:/Users/danie/OneDrive/Documents/GitHub/gameJam/Content/levels/level_2.umap",
-				"C:/Users/danie/OneDrive/Documents/GitHub/gameJam/Content/Blueprints/starting_blueprints/Starting_Menu.uasset"
+				"C:/Users/danie/OneDrive/Documents/GitHub/gameJam/Content/Blueprints/starting_blueprints/Starting_Menu.uasset",
+				"C:/Users/danie/OneDrive/Documents/GitHub/gameJam/Content/levels/Levels.umap",
+				"C:/Users/danie/OneDrive/Documents/GitHub/gameJam/Content/Blueprints/level_UI/W_level_pick.uasset",
+				"C:/Users/danie/OneDrive/Documents/GitHub/gameJam/Content/levels/level_3.umap",
+				"C:/Users/danie/OneDrive/Documents/GitHub/gameJam/Content/levels/NewWorld.umap"
 			]
 		}
 	]
