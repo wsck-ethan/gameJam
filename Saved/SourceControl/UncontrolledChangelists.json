@@ -12,6 +12,11 @@
 				"C:/Users/danie/OneDrive/Documents/GitHub/gameJam/Content/levels/Levels.umap",
 				"C:/Users/danie/OneDrive/Documents/GitHub/gameJam/Content/Blueprints/level_UI/W_level_pick.uasset",
 				"C:/Users/danie/OneDrive/Documents/GitHub/gameJam/Content/levels/level_3.umap",
+				"C:/Users/danie/OneDrive/Documents/GitHub/gameJam/Content/Blueprints/Ethan_blue/BP_restart.uasset",
+				"C:/Users/danie/OneDrive/Documents/GitHub/gameJam/Content/materials/M_black.uasset",
+				"C:/Users/danie/OneDrive/Documents/GitHub/gameJam/Content/Blueprints/restart/BP_restart.uasset",
+				"C:/Users/danie/OneDrive/Documents/GitHub/gameJam/Content/Blueprints/restart/BP_restartLocation.uasset",
+				"C:/Users/danie/OneDrive/Documents/GitHub/gameJam/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/danie/OneDrive/Documents/GitHub/gameJam/Content/levels/NewWorld.umap"
 			]
 		}
